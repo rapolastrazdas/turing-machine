@@ -45,7 +45,9 @@ The simulator reads machine configurations from a plain text file. The structure
 **H:** Reserved state name for the Halt state.
 
 ### Examples
-1 tape examples 1-4.txt, 2 tape examples 5-6.txt 
+1 tape examples [1-4].txt, 
+
+2 tape examples [5-6].txt 
 
 ### Compile and Run
 #### Prerequisites
